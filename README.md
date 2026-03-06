@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**naposopprsut1281/naposopprsut1281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**naposopprsut1281/naposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
